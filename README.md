@@ -56,9 +56,6 @@
 </p>
 
 <p>
-	<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maikvinicius&show_icons=true&locale=en&layout=compact" alt="languages" />
-</p>
-
-<p>
-	<img alt="status" width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=maikvinicius&show_icons=true&line_height=27" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maikvinicius&show_icons=true&locale=en&layout=compact" alt="languages" />
+	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=maikvinicius&show_icons=true&line_height=27" alt="status" />
 </p>
