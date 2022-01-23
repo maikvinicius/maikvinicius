@@ -3,9 +3,9 @@
 
 <p>
 	Welcome to my profile! <br/> <br />
-	I'm Maik, Front-end Developer <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="13"/>
+	I'm Maik, Front-end Developer
 </p>
-<h3>These are my skills, for now [2021]</h3>
+<h3>These are my skills, for now [2022]</h3>
 <p>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
